@@ -9,21 +9,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyamaryjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="jiyamaryjoseph" /> </p>
 
-- 💻 I’m currently working on **Deep Learning/Machine Learning Projects**
+- 💻 I’m currently working on **Llm/Deep Learning/Machine Learning Projects**
 
-- 📈 I’m currently learning **Data Science**
+- 📈 I’m currently learning **Data Science/M.L Engineer**
 
-- 🏢 I’m looking to collaborate on **Many Projects Related to Machine Learning**
+- 🏢 I’m looking to collaborate on **Many Projects Related to Machine Learning/llm**
 
-- 🗂️ All of my projects are available at **my repositories**
+- 🗂️ All of my projects are available at **my repositories** as well as ** https://github.com/jiyamaryjoseph **
 
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **jiyamaryjoseph@outlook.com**
 
-- ⚡ Fun fact **I think I am explorer**
+- ⚡ Fun fact **I think I am explorer 🥳**
   
--  📊 https://public.tableau.com/app/profile/jiya.joseph2295/vizzes
+-  📊 here is one of my data analysis project: https://public.tableau.com/app/profile/jiya.joseph2295/vizzes
   
   
 
